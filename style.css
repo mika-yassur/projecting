@@ -370,3 +370,6 @@ html, body {
   font-size: 12pt;
   color: #333;
 }
+.text-content p {
+  margin-bottom: 2rem;
+}
