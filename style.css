@@ -299,7 +299,7 @@ html, body {
   transform: translateY(20px);
   transition: opacity 1.5s ease, transform 1.5s ease;
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 10%;
   max-width: 60%;
   font-size: 12pt;
